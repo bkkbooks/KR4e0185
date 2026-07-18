@@ -2715,9 +2715,11 @@ markers:
       ', id: KR4e0185_krp_017-bkkkrnewl616}
   - {type: line-break, offset: 11304, content: '', id: KR4e0185_WYG_017-35a05}
   - {type: punctuation, offset: 11306, content: (, id: KR4e0185_krp_017-bkkpn1}
+  - {type: voice, offset: 11306, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 11307, content: /, id: KR4e0185_krp_017-bkkpn2}
   - {type: punctuation, offset: 11307, content: ), id: KR4e0185_krp_017-bkkpn3}
   - {type: punctuation, offset: 11308, content: (, id: KR4e0185_krp_017-bkkpn4}
+  - {type: voice, offset: 11308, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 11309, content: /, id: KR4e0185_krp_017-bkkpn5}
   - {type: punctuation, offset: 11309, content: ), id: KR4e0185_krp_017-bkkpn6}
   - {type: indent, offset: 11309, content: 　, id: KR4e0185_krp_017-bkkind14}
@@ -2787,6 +2789,7 @@ markers:
       ', id: KR4e0185_krp_017-bkkkrnewl631}
   - {type: line-break, offset: 11576, content: '', id: KR4e0185_WYG_017-36a02}
   - {type: punctuation, offset: 11594, content: (, id: KR4e0185_krp_017-bkkpn7}
+  - {type: voice, offset: 11594, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 11595, content: /, id: KR4e0185_krp_017-bkkpn8}
   - {type: punctuation, offset: 11595, content: ), id: KR4e0185_krp_017-bkkpn9}
   - {type: 'kr:newline', offset: 11597, content: '
@@ -2794,6 +2797,7 @@ markers:
       ', id: KR4e0185_krp_017-bkkkrnewl632}
   - {type: line-break, offset: 11597, content: '', id: KR4e0185_WYG_017-36a03}
   - {type: punctuation, offset: 11597, content: (, id: KR4e0185_krp_017-bkkpn10}
+  - {type: voice, offset: 11597, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 11598, content: /, id: KR4e0185_krp_017-bkkpn11}
   - {type: punctuation, offset: 11598, content: ), id: KR4e0185_krp_017-bkkpn12}
   - {type: substitution, offset: 11601, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
@@ -3558,4 +3562,4 @@ markers:
 
       ', id: KR4e0185_krp_017-bkkkrnewl809}
   back: []
-hash: sha256:b581a7daf6205a877bb37bbb51e4bc1771c03737c1beee62b94854f66bd57b15
+hash: sha256:040119a982383baa1f10458ff4f169047c761cd26384f517bf70d11fb23e6eb2
